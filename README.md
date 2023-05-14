@@ -12,11 +12,9 @@
 
  ### **OYUNDAN BİRKAÇ GÖRÜNTÜ**
 
-1- **Oyun Başlangıç Ekranı**
+
  ![ateşiyakala][https://i.hizliresim.com/8buidhh.png]  
 
-2- **Oyun Oynanırken**
  ![ateşiyakala][https://i.hizliresim.com/ii3nulr.png]
-
-3- **Oyun Bitiş Ekranı**
+ 
  ![ateşiyakala][https://i.hizliresim.com/e0pd970.png]
