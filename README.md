@@ -13,8 +13,11 @@
  ### **OYUNDAN BİRKAÇ GÖRÜNTÜ**
 
 
- ![ateşiyakala][https://i.hizliresim.com/8buidhh.png]  
+ 1- **Oyun Başlangıç Ekranı**
+ ![ateşi yakala,2dGame,catch the fire](https://i.hizliresim.com/8buidhh.png)  
 
- ![ateşiyakala][https://i.hizliresim.com/ii3nulr.png]
- 
- ![ateşiyakala][https://i.hizliresim.com/e0pd970.png]
+2- **Oyun Oynanırken**
+ ![ateşi yakala,2dGame,catch the fire](https://i.hizliresim.com/ii3nulr.png)
+
+3- **Oyun Bitiş Ekranı**
+ ![ateşi yakala,2dGame,catch the fire](https://i.hizliresim.com/e0pd970.png)
