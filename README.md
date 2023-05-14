@@ -11,7 +11,7 @@
  ---------------------
  
  ### ***OYUN LİNKİ***
- [ateşi yakala,2dGame,catch the fire](http://catchthefire.freeoda.com/)
+ [**Ateşi Yakala Oynamak İçin Tıkla**](http://catchthefire.freeoda.com/)
 
  ### **OYUNDAN BİRKAÇ GÖRÜNTÜ**
 
